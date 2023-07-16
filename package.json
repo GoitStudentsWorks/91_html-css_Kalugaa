@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/LifeIsGood/",
+    "build": "vite build --base=/91_html-css_Kalugaa/",
     "preview": "vite preview"
   },
   "devDependencies": {
